@@ -1,1 +1,73 @@
 
+{
+    "Mountains": [
+      { "image": "https://wallpapercave.com/wp/wp2506826.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506842.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506853.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506819.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506820.jpg" }
+    ],
+    "Forests": [
+      { "image": "https://wallpapercave.com/wp/wp2506800.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506813.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506854.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2258603.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506831.jpg" }
+    ],
+    "Rivers": [
+      { "image": "https://wallpapercave.com/wp/wp2506867.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506865.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506793.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506839.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506825.jpg" }
+    ],
+    "Waterfalls": [
+      { "image": "https://wallpapercave.com/wp/wp2506864.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506836.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506843.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506830.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506861.jpg" }
+    ],
+    "Beaches": [
+      { "image": "https://wallpapercave.com/wp/wp2506797.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506866.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506833.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506840.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp1017305.jpg" }
+    ],
+    "Deserts": [
+      { "image": "https://wallpapercave.com/wp/wp2506870.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506856.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506829.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506852.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506841.jpg" }
+    ],
+    "Sunrises": [
+      { "image": "https://wallpapercave.com/wp/wp2319079.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506859.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506846.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506837.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506828.jpg" }
+    ],
+    "Sunsets": [
+      { "image": "https://wallpapercave.com/wp/wp2506827.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2213432.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506823.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506871.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506868.jpg" }
+    ],
+    "Cloudscapes": [
+      { "image": "https://wallpapercave.com/wp/wp2506857.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506838.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506845.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506851.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506860.jpg" }
+    ],
+    "Landscapes": [
+      { "image": "https://wallpapercave.com/wp/wp2471726.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506834.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506844.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506863.jpg" },
+      { "image": "https://wallpapercave.com/wp/wp2506821.jpg" }
+    ]
+}
